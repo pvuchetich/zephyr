@@ -243,7 +243,7 @@ via the built-in USB to UART converter.
 
 .. code-block:: console
 
-   $ picocom --baud 115200 /dev/ttyACM0
+   $ picocom --baud 9600 /dev/ttyACM0
 
 Then build and flash the application.
 
